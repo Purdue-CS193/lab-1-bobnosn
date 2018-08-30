@@ -25,6 +25,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### HEADER 3
+
+## HEADER 2
+
+# HEADER 1
+
+# _HEADER 1 but italicized_
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
